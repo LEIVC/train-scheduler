@@ -1,0 +1,63 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	background: rgb(238, 238, 238);
+	color: rgb(233, 10, 10);
+  }
+  
+  
+  .container {
+	background: rgba(231, 89, 7, 0.8);
+	margin-top: 7vh;
+	border-radius: 25px;
+	border: 15px double #0b0ef0;
+	padding: 0 40px 20px 40px;
+  }
+  
+  .jumbotron {
+	background: none;
+	text-shadow: 2px 2px 0px #e8f0ec;
+  }
+  
+  .btn {
+	background: #eb4e06;
+	color: #fff;
+	border: 2px #000 solid;
+  }
+  
+  .btn:hover {
+	color: rgb(13, 28, 241);
+	background: #000;
+	border: 2px #ff5252 solid;
+  }
+  
+  .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+	vertical-align: middle;
+  }
+  
+  .table>thead {
+	color: #f05108;
+  }
+  
+  .current-time {
+	color: #e4a9a9;
+	text-shadow: none;
+  
+  }
+  
+  .panel {
+	background: none;
+	border: 1px dotted #fff;
+  }
+  
+  .panel-title {
+	font-size: 24px;
+	letter-spacing: 2px;
+	color: #f05006;
+	border-bottom: 1px dotted #fff;
+	margin: 10px 0;
+	padding: 0 0 10px 0;
+  }
+  
+  .help-block {
+	color: #fff;
+  }
